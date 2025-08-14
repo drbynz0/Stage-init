@@ -162,12 +162,3 @@ Feedback, issues ou PR sont les bienvenus.
 * Authentification sécurisée
 * Migration vers les versions récentes de .NET
 
-```
-
----
-
-Je peux personnaliser ce README selon tes besoins : style, badges, captures d’écran, documentation détaillée, étapes de build automatisé (CI), etc. Dis-moi ce que tu souhaites !
-::contentReference[oaicite:3]{index=3}
-```
-
-[1]: https://github.com/drbynz0/Stage-init "GitHub - drbynz0/Stage-init: Mon projet de stage d'initiation à l'Ecole Supérieure de Technologie Béni Mellal - Maroc"
